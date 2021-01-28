@@ -29,8 +29,8 @@ var dadHair = dad["hair"];
 var myArr = [1, 2, 3, 4];
 
 function myArr(a,b,c,d){
-for (var i = 0; i < myArr.length; i++){
-    console.log
+for (let i = 0; i < myArr.length; i++){
+    console.log(myArr[i])
 }
 }
 
